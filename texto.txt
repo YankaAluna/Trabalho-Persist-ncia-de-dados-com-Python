@@ -1,0 +1,3 @@
+Primeira frase adicionada à lista.
+Segunda frase adicionada à lista.
+Terceira frase adicionada à lista.
